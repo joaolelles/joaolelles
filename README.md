@@ -1,10 +1,10 @@
-### Hi, I'm João Lelles
+### Oi, Eu sou João Lelles
 ##
 
-Sou estudante de Desenvolvimento web na Trybe. O que mais me chama a atenção na área de tecnologia é a criação e inovação, desde criança eu adorava assistir personagens superinteligentes que buscavam solucionar problemas da sociedade por meio da ciência. Durante a minha formação, tive a oportunidade de aprender habilidades essenciais em desenvolvimento de Software como, front-end, back-end, ciência da computação e metodologias ágeis. Além disso, minha experiência como vendedor na LivroMat, uma papelaria, me proporcionou competências em atendimento ao cliente, gerenciamento de tempo e organização. Estou procurando oportunidades para aplicar as minhas habilidades e conhecimentos em um ambiente desafiador e colaborativo.
+Sou estudante de Desenvolvimento web na Trybe. O que mais me chama a atenção na área de tecnologia é a criação e inovação, desde criança eu adorava assistir personagens superinteligentes que buscavam solucionar problemas da sociedade por meio da ciência. Durante a minha formação, tive a oportunidade de aprender habilidades essenciais como, front-end, back-end, ciência da computação e metodologias ágeis. Além disso, minha experiência como vendedor na LivroMat, uma papelaria, me proporcionou competências em atendimento ao cliente, gerenciamento de tempo e organização. Estou procurando oportunidades para aplicar as minhas habilidades e conhecimentos em um ambiente desafiador e colaborativo.
 
 ##
-<h3>How to reach me</h3>
+<h3>Como me encontrar</h3>
 <div>
    <a href="https://www.instagram.com/devjoaolelles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/joaolelles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -13,7 +13,7 @@ Sou estudante de Desenvolvimento web na Trybe. O que mais me chama a atenção n
 
 ##
 
-<h3>Languages and Tools</h3>
+<h3>Linguagens e ferramentas</h3>
 <div style="display: inline_block">
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="João-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
