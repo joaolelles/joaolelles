@@ -1,7 +1,7 @@
 ### Hi, I'm João Lelles
 ##
 
- Sou estudante de Desenvolvimento web na Trybe. O que mais me chama a atenção na área de tecnologia é a criação e inovação, desde criança eu adorava assistir personagens superinteligentes que buscavam solucionar problemas da sociedade por meio da ciência.
+Sou estudante de Desenvolvimento web na Trybe. O que mais me chama a atenção na área de tecnologia é a criação e inovação, desde criança eu adorava assistir personagens superinteligentes que buscavam solucionar problemas da sociedade por meio da ciência. Durante a minha formação, tive a oportunidade de aprender habilidades essenciais em desenvolvimento de Software como, front-end, back-end, ciência da computação e metodologias ágeis. Além disso, minha experiência como vendedor na LivroMat, uma papelaria, me proporcionou competências em atendimento ao cliente, gerenciamento de tempo e organização. Estou procurando oportunidades para aplicar as minhas habilidades e conhecimentos em um ambiente desafiador e colaborativo.
 
 ##
 <h3>How to reach me</h3>
