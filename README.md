@@ -41,6 +41,7 @@
 
 <div>
   <a href="https://github.com/joaolelles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolelles&show_icons=true&locale=en&theme=tokyonight" alt="joaolelles" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolelles&show_icons=true&locale=en&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolelles&layout=compact&langs_count=10&theme=dark"/>
 <div/>
 
