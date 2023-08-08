@@ -2,7 +2,7 @@
 ##
 
 - Desenvolvedor web Full Stack.
-- Sou apaixonado por tecnologia e inovação.
+- Sou apaixonado por tecnologia e venho aprendendo cada vez mais os poderes que ela nos traz.
 - Durante a minha formação, tive a oportunidade de aprender habilidades essenciais como, front-end, back-end, ciência da computação e metodologias ágeis.
 - A minha experiência como vendedor, me proporcionou competências em atendimento ao cliente, gerenciamento de tempo e organização.
 - Estou procurando oportunidades para aplicar as minhas habilidades e conhecimentos em um ambiente desafiador e colaborativo.
