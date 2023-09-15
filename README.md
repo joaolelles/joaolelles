@@ -3,9 +3,9 @@
 
 - Tenho 22 anos e moro em Bananal-SP
 - Desenvolvedor web Full Stack.
-- Sou apaixonado por tecnologia e venho aprendendo cada vez mais os poderes que ela nos traz.
+- Me encontrei na programação quando descobri o poder de solução que ela nos traz.
 - Durante a minha formação, tive a oportunidade de aprender habilidades essenciais como, front-end, back-end, ciência da computação e metodologias ágeis.
-- A minha experiência como vendedor, me proporcionou competências em atendimento ao cliente, gerenciamento de tempo e organização.
+- A minha experiência como vendedor, me fez enxergar cliente, gerenciar o meu tempo e organização.
 - Estou procurando oportunidades para aplicar as minhas habilidades e conhecimentos em um ambiente desafiador e colaborativo.
 
 ##
