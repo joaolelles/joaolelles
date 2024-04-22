@@ -1,7 +1,6 @@
 ### Oi, Eu sou João Lelles
 ##
 
-- Tenho 23 anos e moro em Bananal-SP
 - Sou desenvolvedor web Full Stack.
 - Estou cursando Sistemas da computação na UFF.
 - Me encontrei na programação quando descobri o poder de solução que ela nos traz.
