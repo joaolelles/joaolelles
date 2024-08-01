@@ -3,9 +3,7 @@
 
 - Sou desenvolvedor web Full Stack.
 - Estou cursando Sistemas da computação na UFF.
-- Me encontrei na programação quando descobri o poder de solução que ela nos traz.
 - Tenho habilidades essenciais como, front-end, back-end, ciência da computação e metodologias ágeis.
-- A minha experiência como vendedor, me fez enxergar cliente, gerenciar o meu tempo e organização.
 
 ##
 <h3>Como me encontrar</h3>
